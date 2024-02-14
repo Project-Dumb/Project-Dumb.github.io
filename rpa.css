@@ -1,0 +1,6 @@
+body {
+ background-image: linear-gradient(to right, skyblue, rgb(255, 100, 227)); }
+p1 { display: block; color: whitesmoke;
+text-shadow:1px 1px 10px whitesmoke , 5px 1px 10px whitesmoke;
+font-size:75px;
+text-align:center; }
