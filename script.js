@@ -3,3 +3,4 @@ function changeBackgroundColor() {
 }
 function showAlert() {
     alert("gimme money pls pls pls pls !");
+}
