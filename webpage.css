@@ -1,0 +1,13 @@
+.flex-container {
+display: grid;
+gap: 200px 500px;
+}
+
+.flex-item img {
+    width: 200px;
+    height: 200px;
+}
+
+.flex-item {
+    flex: 1;
+}
