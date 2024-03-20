@@ -29,3 +29,8 @@ text-align:center; }
 justify-content: center;
 flex-shrink: 0;
 }  
+a:hover {
+  color:rgb(12, 7, 77);
+  background-color: transparent;
+  font-size: 250px;
+  transition: ease-out 20s; }
